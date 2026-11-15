@@ -1,0 +1,6 @@
+[package]
+name = "tools-hermes"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS Hermes Agent AI agentic task runner integration"
+license = "GPL-3.0-or-later"
