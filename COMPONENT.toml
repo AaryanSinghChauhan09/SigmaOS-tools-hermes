@@ -3,7 +3,7 @@ name = "SigmaOS-tools-hermes"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-hermes component"
+description = "tools hermes component"
 upstream = []
 
 [contract]
