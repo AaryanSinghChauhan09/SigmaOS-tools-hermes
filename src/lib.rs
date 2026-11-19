@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 /// Hermes Agent task execution model for SigmaOS agentic workflows.
 
 #[derive(Debug, Clone, PartialEq)]
